@@ -1,4 +1,4 @@
-# javascript
+# Javascript
 This is Repository for creating some application by using java-script from front end to back end  
 
 # Applications List
